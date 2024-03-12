@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Enum_Extension\bin\Debug\net6.0\Enum_Extension.exe
+C:\Users\hp\Desktop\Task\Enum_Extension\bin\Debug\net6.0\Enum_Extension.deps.json
+C:\Users\hp\Desktop\Task\Enum_Extension\bin\Debug\net6.0\Enum_Extension.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Enum_Extension\bin\Debug\net6.0\Enum_Extension.dll
+C:\Users\hp\Desktop\Task\Enum_Extension\bin\Debug\net6.0\Enum_Extension.pdb
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.dll
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\refint\Enum_Extension.dll
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.pdb
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\Enum_Extension.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Enum_Extension\obj\Debug\net6.0\ref\Enum_Extension.dll
